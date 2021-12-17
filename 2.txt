@@ -1,3 +1,8 @@
 develop
 
 develop
+
+*master 本地分支
+# remotes/origin/master  远端追踪分支
+# github  master 远端分支
+
